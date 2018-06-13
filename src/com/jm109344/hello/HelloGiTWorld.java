@@ -6,6 +6,9 @@ public class HelloGiTWorld {
 		System.out.println("Hello World, stored on GiTHub...");
 		
 		System.out.println("Version 2");
+		
+		Third t = new Third();
+		t.printMsg(System.out);
 	}
 
 }
